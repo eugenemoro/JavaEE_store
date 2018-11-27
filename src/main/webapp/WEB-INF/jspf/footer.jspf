@@ -1,0 +1,4 @@
+<%@page pageEncoding="UTF-8"%>
+<div class="footer">
+    <span>&copy; Все права защищены.</span>
+</div>

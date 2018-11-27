@@ -1,0 +1,15 @@
+<%@page pageEncoding="UTF-8"%>
+<div class="header">
+    <div class="logo">
+        <a href="main"><img src="img/logo.png" alt="MyStore"></a>
+    </div>
+    <div class="nav">
+        <ul>
+            <a href="main"><li>Главная</li></a>
+            <a href="catalog"><li>Каталог</li></a>
+            <a href="contacts"><li>Контакты</li></a>
+            <a href="cart"><li>Корзина</li></a>
+            <a href="admin"><li>Админ</li></a>
+        </ul>
+    </div>
+</div>
